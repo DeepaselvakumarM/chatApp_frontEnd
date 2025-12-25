@@ -1,4 +1,4 @@
-Chat Application – Frontend
+Chat Application – Frontend\
 Live Link = https://chat-app-front-end-beige.vercel.app/
 
 
