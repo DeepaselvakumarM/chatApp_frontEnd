@@ -1,6 +1,8 @@
 Chat Application – Frontend\
 Live Link = https://chat-app-front-end-beige.vercel.app/
 \
+To visit my portfolio about the other full stack projcets I have done = https://deepa-portfolio-xi.vercel.app/
+
 
 
 ➤ Overview\
@@ -9,14 +11,14 @@ The application allows users to:\
 Sign up and log in securely\
 Start new conversations\
 View persistent chat history across page refreshes\
-Interact with a custom backend chat engine (no AI APIs)\
+Interact with a custom backend chat engine (no AI APIs)
 
 ➤ Technology Stack\
 React\
 Bootstrap (responsive UI)\
 Axios (API communication)\
 React Router DOM\
-JWT Authentication\
+JWT Authentication
 
 ➤ UI Features\
 ChatGPT-style chat interface\
@@ -25,19 +27,19 @@ Loading indicators for slow network / refresh\
 Responsive design (mobile & desktop)\
 Brand colors used consistently:\
 Primary: #005461
-Accent: #CF4B00\
+Accent: #CF4B00
 
 ➤ Authentication Flow\
 Users must log in to access chat\
 JWT token stored securely in localStorage\
 Header displays logged-in user details\
-Logout clears session and redirects to login\
+Logout clears session and redirects to login
 
 ➤ Chat Functionality\
 Message input with validation\
 Persistent conversation history\
 New chat option \
-Messages remain available after refresh or re-login\
+Messages remain available after refresh or re-login
 
 
 ➤ Setup Instructions (Local)\
@@ -49,12 +51,12 @@ npm install\
 3️⃣ Configure API Base URL\
 baseURL: "http://localhost:5000/api"\
 4️⃣ Run Application\
-npm start\
+npm start
 
 ➤ Deployment\
 Frontend deployed successfully\
 Integrated with deployed backend APIs\
-Works seamlessly across refresh and sessions\
+Works seamlessly across refresh and sessions
 
 
 
