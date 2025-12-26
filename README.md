@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Image1" src="https://github.com/user-attachments/assets/3183aabf-d242-4dcc-8132-5babab3320b0" />Chat Application – Frontend\
+Chat Application – Frontend\
 Live Link = https://chat-app-front-end-beige.vercel.app/
 \
 
@@ -59,6 +59,7 @@ Frontend deployed successfully\
 Integrated with deployed backend APIs\
 Works seamlessly across refresh and sessions\
 
+<img width="1920" height="1080" alt="Image1" src="https://github.com/user-attachments/assets/3183aabf-d242-4dcc-8132-5babab3320b0" />
 <img width="622" height="1080" alt="Image3" src="https://github.com/user-attachments/assets/cb2901ce-5886-43ea-be1d-866c2c27fbba" />
 <img width="612" height="939" alt="Image2" src="https://github.com/user-attachments/assets/8882c88b-b780-478e-b3e1-d7a656d3a26d" />
 
